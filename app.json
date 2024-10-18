@@ -1,7 +1,7 @@
 {
-  "name": "DEVIL-JESTER",
-  "description": "whatsapp bot by drex",
-  "repository": "https://github.com/drexmose/devil-jester",
+  "name": "JINX-V1",
+  "description": "whatsapp bot by playboi",
+  "repository": "https://github.com/work-ent/Jinx",
   "logo": "https://telegra.ph/file/e4ec68215314010a0f1f7.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
